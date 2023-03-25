@@ -1,0 +1,7 @@
+{
+    "manifest_version" : 3,
+    "name" : "StarterReact",
+    "description" : "Developer kit required to start a React project",
+    "version" : "1.0.0"
+
+}
